@@ -1,5 +1,5 @@
 <template>
-  <div class="container" v-if="Object.keys(products).length > 0">
+  <div class="container" v-if="Object.keys(products).length >= 1">
     <!-- CHECKOUT MENU -->
 
     <div id="checkout-menu" class="row mb-3">
