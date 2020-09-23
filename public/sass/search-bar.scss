@@ -1,0 +1,45 @@
+#find-products {
+  height: 5.8rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-top: 5rem;
+}
+
+#find-products input {
+  width: 85%;
+  height: 2.8rem;
+  margin-top: 1.6rem;
+  padding-left: 0.8rem;
+}
+
+#find-products p {
+  font: $font-primary;
+  font-weight: bold;
+  font-size: 2.3vw;
+  color: $color-text-regular;
+  padding-left: 1.2rem;
+  margin-top: 2.2rem;
+}
+
+#find-products button {
+  border: 0;
+  padding: 0;
+  background-color: #ffffff;
+}
+
+@media (min-width: 650px) {
+  #find-products p {
+    font-size: 1vw;
+  }
+}
+
+@media (max-width: 501px) {
+  #find-products input {
+    width: 70%;
+  }
+}
+
+@media (min-width: 2320px) {
+  #find-products p {
+    font-size: 1.3rem;
+  }
+}
