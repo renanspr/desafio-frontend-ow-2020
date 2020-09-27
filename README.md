@@ -1,5 +1,30 @@
 # Desafio Front-end OW 2020
 
+## 🚀 Technologies
+
+This project was developed with the following technologies:
+
+
+- HTML5
+- CSS3
+- Javascript
+- Bootstrap
+- Node.js
+- Vue.js
+- Gulp
+
+
+## 💻 Projeto
+
+Challenge made for [OW Interactive](https://github.com/owInteractive/desafio-frontend-2020)
+
+## 🔖 Layout
+
+In the link below you will find the layout of the web project. 
+
+- [Layout](https://www.dropbox.com/sh/x5wupfno5yqvmts/AADzmcp3hYuWbKYwqDYmmvCqa?dl=0)
+
+
 ## Project setup
 ```
 npm install
