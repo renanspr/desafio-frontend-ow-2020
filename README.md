@@ -4,7 +4,6 @@
 
 This project was developed with the following technologies:
 
-
 - HTML5
 - CSS3
 - Javascript
@@ -16,7 +15,8 @@ This project was developed with the following technologies:
 
 ## 💻 Projeto
 
-Challenge made for [OW Interactive](https://github.com/owInteractive/desafio-frontend-2020)
+Challenge made for [OW Interactive](https://github.com/owInteractive/desafio-frontend-2020). A simple shopping site implementing the functionality of adding and removing products from the cart and finalizing the purchase by filling out a form.
+
 
 ## 🔖 Layout
 
