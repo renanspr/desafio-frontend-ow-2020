@@ -1,4 +1,4 @@
-# desafio-definitivo
+# Desafio Front-end OW 2020
 
 ## Project setup
 ```
